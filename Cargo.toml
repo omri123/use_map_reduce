@@ -1,0 +1,8 @@
+[package]
+name = "use_map_reduce"
+version = "0.1.0"
+authors = ["omri <omri.bloch@mail.huji.ac.il>"]
+edition = "2018"
+
+[dependencies]
+map_reduce_omri = "0.1.2"
